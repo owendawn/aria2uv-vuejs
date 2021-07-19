@@ -72,7 +72,7 @@ export default {
 </script>
 <style>
 .el-menu-vertical-demo:not(.el-menu--collapse) {
-  width: 200px;
+  width: 198px;
   min-height: 400px;
 }
 #download-menu a {
